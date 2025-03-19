@@ -124,11 +124,11 @@ elementoLista.appendChild(botonEliminar);
 
 Haz un fork del repositorio.
 
-Crea una rama con tu nueva funcionalidad (git checkout -b nueva-funcionalidad).
+Crea una rama con tu nueva funcionalidad (`git checkout -b nueva-funcionalidad`).
 
-Realiza tus cambios y haz commit (git commit -m "Añadí nueva funcionalidad").
+Realiza tus cambios y haz commit (`git commit -m "Añadí nueva funcionalidad"`).
 
-Sube tus cambios (git push origin nueva-funcionalidad).
+Sube tus cambios (`git push origin nueva-funcionalidad`).
 
 Abre un Pull Request.
 
